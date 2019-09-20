@@ -1,0 +1,10 @@
+.outer-frame
+{
+    border: black 1px solid;
+}
+
+.outer-frame-pos
+{
+    margin-top: 10%;
+}
+
